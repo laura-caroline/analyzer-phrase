@@ -1,0 +1,51 @@
+{
+  "Animais": {
+    "depth": 1,
+    "subcategories": {
+      "Mamíferos": {
+        "depth": 2,
+        "subcategories": {
+          "Carnívoros": {
+            "depth": 3,
+            "subcategories": {
+              "Felinos": {
+                "depth": 4,
+                "items": ["Leões", "Tigres", "Jaguars", "Leopardos"]
+              }
+            }
+          },
+          "Herbívoros": {
+            "depth": 3,
+            "subcategories": {
+              "Equídeos": {
+                "depth": 4,
+                "items": ["Cavalos", "Zebras", "Asnos"]
+              }
+            }
+          },
+         "Bovídeos": {
+            "depth": 3,
+            "items": ["Bois", "Búfalos", "Antílopes", "Cabras"]
+          },
+          "Primatas": {
+            "depth": 3,
+            "items": ["Gorilas", "Chimpanzés", "Orangotangos"]
+          }
+        }
+      },
+      "Aves": {
+        "depth": 2,
+        "subcategories": {
+          "Rapinas": {
+            "depth": 3,
+            "items": ["Águias", "Falcões", "Corujas", "Milhafres"]
+          },
+          "Pássaros": {
+            "depth": 3,
+            "items": ["Canários", "Papagaios", "Pardais", "Rouxinóis"]
+          }
+        }
+      }
+    }
+  }
+}
